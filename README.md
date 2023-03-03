@@ -17,7 +17,6 @@
 
 
 # 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
@@ -34,14 +33,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MicBed00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicBed00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MicBed00/MicBed00/blob/output/snake.svg" alt="Snake animation" />
-
-###
 ---
 [![](https://visitcount.itsvg.in/api?id=MicBed00&icon=0&color=0)](https://visitcount.itsvg.in)
 
